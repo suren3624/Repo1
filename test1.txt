@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 842A-4DFC
+
+ Directory of C:\Users\verma\Desktop\MyProjetGit
+
+30/03/2019  06:12 PM    <DIR>          .
+30/03/2019  06:12 PM    <DIR>          ..
+30/03/2019  06:12 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  40,866,660,352 bytes free
